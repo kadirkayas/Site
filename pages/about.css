@@ -1,0 +1,53 @@
+.top-background-about{
+    background-image: url("../public/about-background.jpg");
+    background-size: cover;
+    
+}
+.about-top{
+    height: 300px;
+    color: white;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+.about-text{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.about-text h3{
+    color: #5E8AA5  ;
+    text-align: center;
+    width: 750px;
+}
+.about-img{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.about-img img{
+    width: 100%;
+}
+.container .row{
+    margin-top: 50px;
+}
+.col-sm h3{
+    color: #5E8AA5;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.col-sm p{
+    margin-top: 15px;
+    color: #5E8AA5;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 2;
+    text-align: center;
+}
+
