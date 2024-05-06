@@ -1,0 +1,51 @@
+.top-background-contract{
+    background-image: url("../public/contact-backcround.png");
+    background-size: cover;
+    background-size: 1100x;
+}
+.contact-top{
+    height: 200px;
+    color: white;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+.contact{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.contact-item{
+    height: 550px;  
+    margin: 10px;
+}
+
+.contact-item h1{
+    color: #5E8AA5;
+}
+.contact-item h6{
+    color: #5E8AA5;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.contact-item p{
+    color: #5E8AA5;
+    font-weight: 500;
+    line-height: 2;
+    font-size: 20px;
+}
+.sns-div{
+    margin-top: 5px;
+}
+.snsa{
+    margin:15px
+}
+.sns{
+    height: 40px;
+}
+
+
